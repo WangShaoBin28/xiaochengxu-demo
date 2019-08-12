@@ -1,0 +1,45 @@
+
+<view class="cu-bar bg-white margin-top">
+  <view class="action">
+    <text class="cuIcon-title text-blue"></text>户型图
+  </view>
+</view>
+<image mode='scaleToFill' style='width:100%' src='https://ss0.baidu.com/6ONWsjip0QIZ8tyhnq/it/u=162772707,2023925768&fm=179&app=42&f=JPEG?w=1500&h=800'></image>
+
+<view class="cu-bar bg-white margin-top">
+  <view class="action">
+    <text class="cuIcon-title text-blue"></text>客厅
+  </view>
+</view>
+<image src="https://ss0.baidu.com/6ONWsjip0QIZ8tyhnq/it/u=1227793878,3311081692&fm=179&app=42&f=JPEG?w=800&h=600" mode='scaleToFill' style='width:100%'  ></image>
+<image src="https://ss2.baidu.com/6ONYsjip0QIZ8tyhnq/it/u=1428904937,3164790268&fm=179&app=42&f=JPEG?w=800&h=600" mode='scaleToFill' style='width:100%'  ></image>
+
+
+
+
+<!-- 卧室 -->
+<view class="cu-bar bg-white">
+  <view class="action">
+    <text class="cuIcon-title text-blue"></text>卧室
+  </view>
+</view>
+<view>
+
+<image src="https://ss0.baidu.com/6ONWsjip0QIZ8tyhnq/it/u=3610799091,282145986&fm=179&app=42&f=JPEG?w=800&h=600" mode='scaleToFill' style='width:100%' ></image>
+
+<image src="https://ss0.baidu.com/6ONWsjip0QIZ8tyhnq/it/u=3193884525,2234259751&fm=179&app=42&f=JPEG?w=800&h=600" mode='scaleToFill' style='width:100%' ></image>
+
+<image src="https://ss1.baidu.com/6ONXsjip0QIZ8tyhnq/it/u=3509194564,2691939402&fm=179&app=42&f=JPEG?w=800&h=705" mode='scaleToFill' style='width:100%' ></image>
+</view>
+
+<!-- 餐厅 -->
+<view class="cu-bar bg-white">
+  <view class="action">
+    <text class="cuIcon-title text-blue"></text>餐厅
+  </view>
+</view>
+<view>
+
+<image src="https://ss0.baidu.com/6ONWsjip0QIZ8tyhnq/it/u=71706285,2873970046&fm=179&app=42&f=JPEG?w=800&h=600" mode='scaleToFill' style='width:100%' ></image>
+</view>
+

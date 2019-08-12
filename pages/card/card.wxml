@@ -1,0 +1,123 @@
+<view class="cu-card case">
+  <view class="cu-item shadow">
+  <navigator class="content" url="/pages/background/background" hover-class="none">
+    <view class="image">
+      <image src="https://ss0.baidu.com/6ONWsjip0QIZ8tyhnq/it/u=2723625924,2739630690&fm=179&app=42&f=JPEG?w=1000&h=666" mode="widthFix"></image>
+      <view class="cu-bar bg-shadeBottom">
+        <text class="text-cut">绿地城62㎡北欧风格装修设计</text>
+      </view>
+    </view>
+    </navigator>
+    <view class="cu-list menu-avatar">
+      <view class="cu-item">
+        <view class="cu-avatar round lg" style="background-image:url(https://ss1.baidu.com/6ONXsjip0QIZ8tyhnq/it/u=748858627,3221245281&fm=179&app=42&f=PNG?w=64&h=64);">
+        </view>
+        <view class="content flex-sub">
+          <view class="text-grey">福州生活家家居</view>
+          <view class="text-gray text-sm flex justify-between">
+            美式 | 三居室 | 62平米
+            <!-- <view class="text-gray text-sm">
+              <text class="cuIcon-attentionfill margin-lr-xs"></text> 10
+              <text class="cuIcon-appreciatefill margin-lr-xs"></text> 20
+              <text class="cuIcon-messagefill margin-lr-xs"></text> 30
+            </view> -->
+          </view>
+        </view>
+      </view>
+    </view>
+  </view>
+</view>
+
+
+
+<view class="cu-card case">
+  <view class="cu-item shadow">
+  <navigator class="content" url="/pages/background/background" hover-class="none">
+    <view class="image">
+      <image src="https://ss0.baidu.com/6ONWsjip0QIZ8tyhnq/it/u=2723625924,2739630690&fm=179&app=42&f=JPEG?w=1000&h=666" mode="widthFix"></image>
+      <view class="cu-bar bg-shadeBottom">
+        <text class="text-cut">绿地城62㎡北欧风格装修设计</text>
+      </view>
+    </view>
+    </navigator>
+    <view class="cu-list menu-avatar">
+      <view class="cu-item">
+        <view class="cu-avatar round lg" style="background-image:url(https://ss1.baidu.com/6ONXsjip0QIZ8tyhnq/it/u=748858627,3221245281&fm=179&app=42&f=PNG?w=64&h=64);">
+        </view>
+        <view class="content flex-sub">
+          <view class="text-grey">福州生活家家居</view>
+          <view class="text-gray text-sm flex justify-between">
+            美式 | 三居室 | 62平米
+            <!-- <view class="text-gray text-sm">
+              <text class="cuIcon-attentionfill margin-lr-xs"></text> 10
+              <text class="cuIcon-appreciatefill margin-lr-xs"></text> 20
+              <text class="cuIcon-messagefill margin-lr-xs"></text> 30
+            </view> -->
+          </view>
+        </view>
+      </view>
+    </view>
+  </view>
+</view>
+
+
+<view class="cu-card case">
+  <view class="cu-item shadow">
+  <navigator class="content" url="/pages/background/background" hover-class="none">
+    <view class="image">
+      <image src="https://ss0.baidu.com/6ONWsjip0QIZ8tyhnq/it/u=2723625924,2739630690&fm=179&app=42&f=JPEG?w=1000&h=666" mode="widthFix"></image>
+      <view class="cu-bar bg-shadeBottom">
+        <text class="text-cut">绿地城62㎡北欧风格装修设计</text>
+      </view>
+    </view>
+    </navigator>
+    <view class="cu-list menu-avatar">
+      <view class="cu-item">
+        <view class="cu-avatar round lg" style="background-image:url(https://ss1.baidu.com/6ONXsjip0QIZ8tyhnq/it/u=748858627,3221245281&fm=179&app=42&f=PNG?w=64&h=64);">
+        </view>
+        <view class="content flex-sub">
+          <view class="text-grey">福州生活家家居</view>
+          <view class="text-gray text-sm flex justify-between">
+            美式 | 三居室 | 62平米
+            <!-- <view class="text-gray text-sm">
+              <text class="cuIcon-attentionfill margin-lr-xs"></text> 10
+              <text class="cuIcon-appreciatefill margin-lr-xs"></text> 20
+              <text class="cuIcon-messagefill margin-lr-xs"></text> 30
+            </view> -->
+          </view>
+        </view>
+      </view>
+    </view>
+  </view>
+</view>
+
+
+<view class="cu-card case">
+  <view class="cu-item shadow">
+  <navigator class="content" url="/pages/background/background" hover-class="none">
+    <view class="image">
+      <image src="https://ss0.baidu.com/6ONWsjip0QIZ8tyhnq/it/u=2723625924,2739630690&fm=179&app=42&f=JPEG?w=1000&h=666" mode="widthFix"></image>
+      <view class="cu-bar bg-shadeBottom">
+        <text class="text-cut">绿地城62㎡北欧风格装修设计</text>
+      </view>
+    </view>
+    </navigator>
+    <view class="cu-list menu-avatar">
+      <view class="cu-item">
+        <view class="cu-avatar round lg" style="background-image:url(https://ss1.baidu.com/6ONXsjip0QIZ8tyhnq/it/u=748858627,3221245281&fm=179&app=42&f=PNG?w=64&h=64);">
+        </view>
+        <view class="content flex-sub">
+          <view class="text-grey">福州生活家家居</view>
+          <view class="text-gray text-sm flex justify-between">
+            美式 | 三居室 | 62平米
+            <!-- <view class="text-gray text-sm">
+              <text class="cuIcon-attentionfill margin-lr-xs"></text> 10
+              <text class="cuIcon-appreciatefill margin-lr-xs"></text> 20
+              <text class="cuIcon-messagefill margin-lr-xs"></text> 30
+            </view> -->
+          </view>
+        </view>
+      </view>
+    </view>
+  </view>
+</view>
